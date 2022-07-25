@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1 align="center"style="color:Lightblue">MENU CARD</h1>
+<style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
+</head>
+<body align="center">
+<div>
+<h2 style="color:blue">Itemname&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quantity</h2>
+<h3 style="color:white">Veg Biryani&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;500&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 plate</h3>
+<h3 style="color:yellow">Spinach Salad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 portion</h3>
+<h3 style="color:red">Spicy Lobster&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 plate</h3>
+<h3 style="color:black">Chicken Biryani&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 plate</h3>
+<h3 style="color:green">GrillSandwiches &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 portions</h3>
+
+</div>
+
+</body>
+</html>
+
+
